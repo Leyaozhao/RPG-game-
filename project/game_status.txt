@@ -1,0 +1,15 @@
+Magician
+summer
+85
+30
+3
+50
+8
+Momo 150 65 3 15
+Micky 200 100 4 20
+Michael 250 125 5 25
+Mike 300 150 6 30
+Master 350 175 7 35
+Manny 400 200 8 40
+Muffin 450 225 9 45
+Magic 500 250 10 50
